@@ -14,8 +14,9 @@
             <div class="col-lg-6 col-md-12 col-sm-12 col-12">
                 <div class="consultation_content" data-aos="fade-up">
                     <h6>Get in touch</h6>
-                    <h2 class="text-white">Book a free consultation</h2>
-                    <form id="contactpage" method="post" class="position-relative">
+                    <h2 class="text-white">We're here to help! Feel free to get in touch with us at any time.</h2>
+                    <form id="contactpage" method="post" class="position-relative" action="{{ route('contact.store') }}">
+                        @csrf
                         <div class="form-group input1 float-left">
                             <input type="text" class="form_style" placeholder="Name" name="fname" id="fname">
                         </div>
@@ -27,16 +28,16 @@
                         </div>
                         <div class="form-group float-left">
                             <select class="form-control">
-                                <option>Practice Area</option>
-                                <option>Immigration Law</option>
-                                <option>Business Law</option>
-                                <option>Criminal Law</option>
+                                <option>Community</option>
+                                <option>Career Guidance</option>
+                                <option>Consultation</option>
+                                <option>Others</option>
                             </select>
                         </div>
                         <div class="form-group message">
                             <textarea class="form_style" placeholder="Message" rows="3" name="msg"></textarea>
                         </div>
-                        <button id="submit" type="submit" class="appointment">Book Appointment<i class="fa-solid fa-arrow-right"></i></button>
+                        <button id="submit" type="submit" class="appointment">Send Now<i class="fa-solid fa-arrow-right"></i></button>
                     </form>
                 </div>
             </div>

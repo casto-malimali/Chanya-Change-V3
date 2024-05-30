@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\ContactController;
 
 /*
 |--------------------------------------------------------------------------
@@ -28,3 +29,7 @@ Route::get('/activities', function () {
 Route::get('/events', function () {
     return view('events');
 });
+Route::get('/contact', function () {
+    return view('contact');
+});
+Route::post('/contact', [ContactController::class, 'store'])->name('contact.store');
