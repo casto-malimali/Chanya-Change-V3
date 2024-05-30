@@ -24,3 +24,7 @@ Route::get('/about', function () {
 Route::get('/activities', function () {
     return view('activities');
 });
+
+Route::get('/events', function () {
+    return view('events');
+});
