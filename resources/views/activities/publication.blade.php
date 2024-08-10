@@ -50,7 +50,7 @@
                         <div class="row">
                             <div class="col">
                                 <figure class="image1 mb-3" data-aos="fade-up">
-                                    <img src="assets/images/activties/advocacy.jpg" alt="{{ $title }}" class="img-fluid"
+                                    <img src="assets/images/activties/safari.jpg" alt="{{ $title }}" class="img-fluid rounded-3 border-0 shadow-sm"
                                         loading="lazy">
                                 </figure>
                             </div>

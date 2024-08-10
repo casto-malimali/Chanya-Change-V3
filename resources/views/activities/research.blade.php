@@ -1,6 +1,6 @@
 @php
     $title = 'Research and Consultancy';
-    $para = 'To be able to conduct its activities well, Chanya change incolves in research and consultancy activities.';
+    $para = 'We conduct Research and Consultancy activities focusing on Youth and Women';
 @endphp
 
 @extends('partials.master')
@@ -50,7 +50,7 @@
                         <div class="row">
                             <div class="col">
                                 <figure class="image1 mb-3" data-aos="fade-up">
-                                    <img src="assets/images/activties/advocacy.jpg" alt="{{ $title }}" class="img-fluid"
+                                    <img src="assets/images/activties/research.jpg" alt="{{ $title }}" class="img-fluid"
                                         loading="lazy">
                                 </figure>
                             </div>

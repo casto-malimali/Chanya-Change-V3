@@ -45,6 +45,7 @@
                             <h2>{{ $title }}</h2>
 
                             <p class="text-size-16">{{ $para }}</p>
+                            <hr style="width: 3px; border-color: orange; thickness: 3px; height: 10px;">
                         </div>
 
                         <div class="row">
@@ -56,7 +57,7 @@
                             </div>
                             <div class="col-6">
                                 <figure class="image1 mb-3" data-aos="fade-up">
-                                    <img src="assets/images/activties/advocacy.jpg" alt="{{ $title }}" class="img-fluid"
+                                    <img src="assets/images/activties/women.jpg" alt="{{ $title }}" class="img-fluid"
                                         loading="lazy">
                                 </figure>
                             </div>
@@ -72,7 +73,7 @@
                             </div>
                             <div class="col-6">
                                 <figure class="image1 mb-3" data-aos="fade-up">
-                                    <img src="assets/images/activties/advocacy.jpg" alt="{{ $title }}" class="img-fluid"
+                                    <img src="assets/images/activties/ict.webp" alt="{{ $title }}" class="img-fluid"
                                         loading="lazy">
                                 </figure>
                             </div>
