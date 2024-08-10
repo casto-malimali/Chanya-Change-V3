@@ -9,9 +9,9 @@
                         <div class="sub_banner_content" data-aos="fade-up">
                             <h1 class="text-white">Activities</h1>
                             <p class="col-xl-7 col-lg-9 mx-auto text-white text-size-16">Chanya Change perform several
-                                activities to impowering societies
+                                activities to create employable Youth and Women. </p>
                             <div class="box">
-                                <a href="index.html" class="text-decoration-none">
+                                <a href="/" class="text-decoration-none">
                                     <span class="mb-0">Home</span>
                                 </a>
                                 <i class="arrow fa-solid fa-arrow-right"></i>
@@ -31,9 +31,9 @@
                     <div class="practice_content text-center" data-aos="fade-up">
                         <h6>Our Activities</h6>
                         <h2>Chanya Changes's Activities</h2>
-                        <p class="col-xl-8 col-lg-10 mx-auto text-size-16 mb-0">Chanya Change empowers individuals through
+                        {{-- <p class="col-xl-8 col-lg-10 mx-auto text-size-16 mb-0">Chanya Change empowers individuals through
                             digital literacy, entrepreneurship, and STEM education, with a focus on Youth and women.
-                        </p>
+                        </p> --}}
                     </div>
                 </div>
             </div>

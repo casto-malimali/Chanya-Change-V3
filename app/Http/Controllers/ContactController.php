@@ -25,6 +25,6 @@ class ContactController extends Controller
             'msg' => $request->msg,
         ]);
 
-        return back()->with('success', 'Your message has been sent successfully!');
+        return back()->with('success', 'Thanks you for Contacting Chanya Change!');
     }
 }

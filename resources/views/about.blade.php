@@ -10,10 +10,10 @@
             <div class="col-12">
                 <div class="sub_banner_content" data-aos="fade-up">
                     <h1 class="text-white">About Us</h1>
-                    <p class="col-xl-7 col-lg-9 mx-auto text-white text-size-16">We empower the next generation by creating employable youth
+                    <p class="col-xl-7 col-lg-9 mx-auto text-white text-size-16">Employable Youth and Women for Sustainable Economic Development
                     </p>
                     <div class="box">
-                        <a href="index.html" class="text-decoration-none">
+                        <a href="/" class="text-decoration-none">
                             <span class="mb-0">Home</span>
                         </a>
                         <i class="arrow fa-solid fa-arrow-right"></i>
@@ -44,7 +44,7 @@
                         <figure class="about-icon">
                             <img src="./assets/images/aboutpage-icon.png" alt="image" class="img-fluid">
                         </figure>
-                        <span class="number counter">10</span>
+                        <span class="number counter">5</span>
                         <sup class="plus">+</sup>
                         <span class="text">Years of working with Community </span>
                     </div>
@@ -54,9 +54,9 @@
                 <div class="about_content" data-aos="fade-up">
                     <h6>About us</h6>
                     <h2>Chanya Change</h2>
-                    <p class="text text-size-16">Chanya Change is a Social Enterprise established and registered in Tanzania in 2018. It aims at addressing employment challenges towards improved livelihood and sustainable economic growth. <br>
-                         We manage to do this through focusing on career development, life skills and digital literacy. <br>To ensure economic growth in the community, stable health, quality education and gender equality are also kept into consideration. Chanya change uses capacity building (trainings, mentorship and coaching), awareness creation, advocacy, competitions, events, research and consultancy to meet its objectives. <br>
-                          Activities performed by Chanya change are in physical and online (digital) mode. With these activities Chanya Change has managed to reach more than 10,000+ people.
+                    <p class="text text-size-16">Chanya Change is a Social Enterprise established and registered in Tanzania in 2018. It aims at addressing employment challenges towards improved livelihood and sustainable economic growth. We manage to do this through focusing on career development, life skills and digital literacy.
+
+                        Chanya change uses capacity building (trainings, mentorship and coaching), awareness creation, advocacy, competitions, events, research and consultancy to meet its objectives. Activities performed by Chanya change are in physical and online (digital) mode. With these activities Chanya Change has managed to reach more than 6,000+ Youth and Women.
                     </p>
                 </div>
             </div>
@@ -130,15 +130,15 @@
                             <div class="box">
                                 <div class="succeed-box">
                                     <figure class="icon">
-                                        <img src="./assets/images/succeed-icon1.png" alt="image" class="img-fluid">
+                                        <img src="./assets/images/succeed-icon3.png" alt="image" class="img-fluid">
                                     </figure>
-                                    <span class="number counter">10000</span>
+                                    <span class="number counter">6000</span>
                                     <sup class="plus">+</sup>
-                                    <span class="text">Youth Reached</span>
+                                    <span class="text"> Youth and Women Reached</span>
                                 </div>
                             </div>
                         </div>
-                        <
+
                         </div>
                     </div>
 
@@ -152,9 +152,9 @@
                                         <figure class="icon">
                                             <img src="./assets/images/succeed-icon3.png" alt="image" class="img-fluid">
                                         </figure>
-                                        <span class="number counter">370</span>
+                                        <span class="number counter">100</span>
                                         <sup class="plus">+</sup>
-                                        <span class="text">Happy Clients</span>
+                                        <span class="text">Youth and Women Seminars and Workshops</span>
                                     </div>
                                 </div>
                             </div>
@@ -163,7 +163,7 @@
                                     <figure class="icon">
                                         <img src="./assets/images/succeed-icon4.png" alt="image" class="img-fluid">
                                     </figure>
-                                    <span class="number counter">90</span>
+                                    <span class="number counter">5</span>
                                     <sup class="plus">+</sup>
                                     <span class="text">Awards Won</span>
                                 </div>
@@ -271,7 +271,7 @@
             <div class="col-lg-6 col-md-12 col-sm-12 col-12">
                 <div class="succeed_content" data-aos="fade-up">
                     <h6>Our Vision</h6>
-                    <h2>Chanya chnage's Vision</h2>
+                    <h2>Chanya change's Vision</h2>
                     <p class="text text-size-16">Positive minded and employable community for improved livelihood and sustainable economic growth.</p>
 
                 </div>

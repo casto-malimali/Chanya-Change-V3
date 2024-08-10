@@ -46,7 +46,7 @@
                     <div class="last_list">
                         <figure class="nav-phoneicon mb-0"><img class="img-fluid"
                                 src="./assets/images/nav-phoneicon.png" alt="image"></figure>
-                        <a class="text-decoration-none last_list_atag" href="tel:+568925896325">+255 756334 659</a>
+                        <a class="text-decoration-none last_list_atag" href="tel:+255756334659">+255 756 334 659</a>
                     </div>
                 </div>
             </nav>

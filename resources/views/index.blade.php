@@ -19,7 +19,7 @@
                                     </div>
                                     <div class="col-xl-6 col-lg-5 col-md-12 col-sm-12 col-12">
                                         <div class="content">
-                                            <p class="text-white text-size-18"> At Chanya Change we define employability as the ability of being employable. This means the presence of attributes including skills and abilities that makes a person able to gain and maintain employment. By employment we refer to both being employed by an organisation of someone else and self-employment. It could be in a professional job, entrepreneurship or innovation undertaking.
+                                            <p class="text-white text-size-18" style="font-size: 24px"> We help youth and women become better versions of themselves for sustainable employment opportunities. Being innovative is our key attribute.
                                             </p>
                                             <a href="join-us" class="text-decoration-none appointment">Join Us<i class="fa-solid fa-arrow-right"></i></a>
                                         </div>
@@ -33,7 +33,7 @@
                                     </div>
                                     <div class="col-xl-6 col-lg-5 col-md-12 col-sm-12 col-12">
                                         <div class="content">
-                                            <p class="text-white text-size-18"> Chanya Change helps children and youth in primary and secondary schools understand and develop their careers through guidance, counseling, and an online learning platform. We provide essential career information and continuous skills development to create employable youth and support parents in giving effective advice.
+                                            <p class="text-white text-size-18" style="font-size: 24px"> We work with youth in selecting and advancing their careers.
                                             </p>
                                             <a href="/join-us" class="text-decoration-none appointment">Join Us<i class="fa-solid fa-arrow-right"></i></a>
                                         </div>
@@ -47,7 +47,7 @@
                                     </div>
                                     <div class="col-xl-6 col-lg-5 col-md-12 col-sm-12 col-12">
                                         <div class="content">
-                                            <p class="text-white text-size-18"> Economic growth without proper life skills has limitations and likely not sustainable. At Chanya Change we define life skills as the skills required by humans to enable them deal effectively with the demands and challenges of life. These skills can be grouped into self-awareness, interpersonal skills and thinking skills. These skills are needed by every individual at different stages of life.
+                                            <p class="text-white text-size-18" style="font-size: 24px"> We equip Youth and Women with Skills enabling them to meet life demands and address life challenges.
                                             </p>
                                             <a href="/join-us" class="text-decoration-none appointment">Join Us<i class="fa-solid fa-arrow-right"></i></a>
                                         </div>
@@ -61,9 +61,9 @@
                                     </div>
                                     <div class="col-xl-6 col-lg-5 col-md-12 col-sm-12 col-12">
                                         <div class="content">
-                                            <p class="text-white text-size-18">Chanya Change empowers Youth with digital skills through comprehensive training programs, hands-on workshops and seminars, and online learning platforms (Chanya plus). We equip participants with essential digital literacy skills to thrive in the digital world.
+                                            <p class="text-white text-size-18" style="font-size: 24px">We believe that "Digital" is a language that every one should speak, we equip youth and women with basic and advanced digital skills.
                                             </p>
-                                            <a href="./contact.html" class="text-decoration-none appointment">Join Us<i class="fa-solid fa-arrow-right"></i></a>
+                                            <a href="./contact" class="text-decoration-none appointment">Join Us<i class="fa-solid fa-arrow-right"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -137,10 +137,10 @@
                     </h2>
                     <p class="col-xl-7 col-lg-8 text-size-16 text1 p-0">Chanya Change is a Social Enterprise established and registered in Tanzania in 2018. It aims at addressing employment challenges towards improved livelihood and sustainable economic growth. We manage to do this through focusing on career development, life skills and digital literacy.
                     </p>
-                    <p class="col-xl-7 col-lg-8 text-size-16 text2 p-0"> To ensure economic growth in the community, stable health, quality education and gender equality are also kept into consideration. Chanya change uses capacity building (trainings, mentorship and coaching), awareness creation, advocacy, competitions, events, research and consultancy to meet its objectives.
-                        Activities performed by Chanya change are in physical and online (digital) mode. With these activities Chanya Change has managed to reach more than 10,000+ youth.
+                    <p class="col-xl-7 col-lg-8 text-size-16 text2 p-0">Chanya change uses capacity building (trainings, mentorship and coaching), awareness creation, advocacy, competitions, events, research and consultancy to meet its objectives.
+                        Activities performed by Chanya change are in physical and online (digital) mode. With these activities Chanya Change has managed to reach more than 6,000+ Youth and Women.
                     </p>
-                    <a href="#/about" class="text-decoration-none read_more">Read More<i class="fa-solid fa-arrow-right"></i></a>
+                    <a href="/about" class="text-decoration-none read_more">Read More<i class="fa-solid fa-arrow-right"></i></a>
                     <figure class="committed-image mt-0" data-aos="zoom-in">
                         <img src="./assets/images/timiza-bonanza.jpg" alt="image" class="img-fluid">
                     </figure>
@@ -164,21 +164,21 @@
                                 </li>
                                 <li>
                                     <div class="value">
-                                        <span class="counter number">100</span>
+                                        <span class="counter number">25</span>
                                         <span class="plus">+</span>
                                     </div>
                                     <span class="text">Events done</span>
                                 </li>
                                 <li>
                                     <div class="value">
-                                        <span class="counter number">1000</span>
+                                        <span class="counter number">6000</span>
                                         <span class="plus">+</span>
                                     </div>
-                                    <span class="text">Youth Reached</span>
+                                    <span class="text">Youth and Women Reached</span>
                                 </li>
                                 <li>
                                     <div class="value">
-                                        <span class="counter number">100</span>
+                                        <span class="counter number">5</span>
                                         <span class="plus">+</span>
                                     </div>
                                     <span class="text">Projects</span>

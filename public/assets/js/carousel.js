@@ -8,7 +8,7 @@ $(document).ready(function () {
         loop: true,
         dots: true,
         autoplay: true,
-        autoplayTimeout: 4500,
+        autoplayTimeout: 6000,
         responsive: {
             0: {
                 items: 1
@@ -31,7 +31,7 @@ $(document).ready(function () {
         loop: true,
         dots: false,
         autoplay: true,
-        autoplayTimeout: 4500,
+        autoplayTimeout: 6000,
         responsive: {
             0: {
                 items: 1

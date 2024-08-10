@@ -33,7 +33,7 @@
                     <div class="timing">
                         <h4 class="heading">Other Useful Links</h4>
                         <ul class="list-unstyled mb-0">
-                            <li><p>Online Consultatiion</p></li>
+                            <li><p >Online Consultatiion</p></li>
                             <li><span>Pata Intel</span></li>
                             <li><p>Pamela Chogo Website</p></li>
 
@@ -55,7 +55,7 @@
                             </li>
                             <li class="text">
                                 <i class="fa-solid fa-location-dot"></i>
-                                <p class="address mb-0">Orelai Majengoo Juu, Arusha</p>
+                                <p class="address mb-0">Elerai Majengo Juu, Arusha</p>
                             </li>
                         </ul>
                     </div>
