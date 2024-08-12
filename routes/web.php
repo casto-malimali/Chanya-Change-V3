@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\ContactController;
+use App\Http\Controllers\NewsletterController;
 
 /*
 |--------------------------------------------------------------------------
@@ -20,10 +21,16 @@ Route::get('/', function () {
 
 Route::get('/about', function () {
     return view('about');
-} );
+});
+Route::get('/new', function () {
+    return view('news');
+});
 
 Route::get('/activities', function () {
     return view('activities');
+});
+Route::get('/contact', function () {
+    return view('contact');
 });
 
 Route::get('/events', function () {
@@ -50,4 +57,9 @@ Route::get('/secondary-school', function () {
 Route::get('/capacity-building', function () {
     return view('activities.capacity');
 });
-Route::post('/contact', [ContactController::class, 'store'])->name('contact.store');
+
+
+
+Route::post('/contact', [ContactController::class, 'message'])->name('contact.store');
+Route::post('/newsletter',[NewsletterController::class, 'create'])->name('newsletter.subscribe');
+

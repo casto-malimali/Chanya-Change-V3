@@ -14,18 +14,37 @@
             <div class="col-lg-6 col-md-12 col-sm-12 col-12">
                 <div class="consultation_content" data-aos="fade-up">
                     <h6>Get in touch</h6>
-                    <h2 class="text-white">We're here to help! Feel free to get in touch with us at any time.</h2>
+                    <h2 class="">We're here to help! Feel free to get in touch with us at any time.</h2>
+                    @if (session('success'))
+                    <div class="alert alert-success">
+                        {{ session('success') }}
+                    </div>
+                @endif
 
-                    <form id="contactpage" method="POST" action="{{ route('contact.store') }}" class="position-relative">
+                @if ($errors->any())
+                    <div class="alert alert-danger">
+                        <ul>
+                            @foreach ($errors->all() as $error)
+                                <li>{{ $error }}</li>
+                            @endforeach
+                        </ul>
+                    </div>
+                @endif
+                    <form  method="POST" action="{{ route('contact.store') }}"
+                        class="position-relative">
+
                         @csrf
                         <div class="form-group input1 float-left">
-                            <input type="text" class="form_style" placeholder="Name" name="fname" id="fname" required>
+                            <input type="text" class="form_style" placeholder="Name" name="fname" id="fname"
+                                required>
                         </div>
                         <div class="form-group float-left">
-                            <input type="tel" class="form_style" placeholder="Phone" name="phone" id="phone" required>
+                            <input type="tel" class="form_style" placeholder="Phone" name="phone" id="phone"
+                                required>
                         </div>
                         <div class="form-group input1 float-left">
-                            <input type="email" class="form_style" placeholder="Email" name="email" id="email" required>
+                            <input type="email" class="form_style" placeholder="Email" name="email" id="email"
+                                required>
                         </div>
                         <div class="form-group float-left">
                             <select class="form-control" name="type" required>
@@ -39,7 +58,9 @@
                         <div class="form-group message">
                             <textarea class="form_style" placeholder="Message" rows="3" name="msg" required></textarea>
                         </div>
-                        <button id="submit" type="submit" class="appointment">Send Now<i class="fa-solid fa-arrow-right"></i></button>
+                        <button id="submit" type="submit" class="appointment">Send Now<i
+                                class="fa-solid fa-arrow-right"></i></button>
+
                     </form>
                 </div>
             </div>

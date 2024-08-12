@@ -3,28 +3,24 @@
 namespace App\Http\Controllers;
 
 use App\Models\Contact;
-use Illuminate\Http\Request;
+use App\Mail\ContactMail;
+use Illuminate\Support\Facades\Mail;
+use App\Http\Requests\ContactRequest;
 
 class ContactController extends Controller
 {
-    public function store(Request $request)
+    public function message(ContactRequest $request)
     {
-        $request->validate([
-            'fname' => 'required|string|max:255',
-            'phone' => 'required|string|max:15',
-            'email' => 'required|string|email|max:255',
-            'type' => 'required|string|max:255',
-            'msg' => 'required|string',
-        ]);
-
-        Contact::create([
-            'fname' => $request->fname,
-            'phone' => $request->phone,
-            'email' => $request->email,
-            'type' => $request->type,
-            'msg' => $request->msg,
-        ]);
-
-        return back()->with('success', 'Thanks you for Contacting Chanya Change!');
+        Contact::create(
+            [
+                'fullName' => $request->input('fname'),
+                'Phone' => $request->input('phone'),
+                'Email' => $request->input('email'),
+                'Service' => $request->input('type'),
+                'Message' => $request->input('msg'),
+            ]
+        );
+        Mail::to('castoraron255@gmail.com')->send(new ContactMail($request->all()));
+        return back()->with('success', 'Thanks For '.$request->input('fname').' Contacting Chanya Change');
     }
 }
