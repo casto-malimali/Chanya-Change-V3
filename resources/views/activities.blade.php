@@ -44,10 +44,10 @@
                             <figure class="icon">
                                 <img src="./assets/images/practice-icon1.png" alt="image" class="img-fluid">
                             </figure>
-                            <h5>Chanya Change Digital Space</h5>
+                            <h5>Advocacy and awareness creation</h5>
                             {{-- <p class="text-size-14">Aute irure dolor in reprehenderit in voluptate velit esse cillum maiores
                                 alias conse noloribus...</p> --}}
-                            <a href="./practice-area.html" class="text-decoration-none"><i
+                            <a href="/advocacy-and-awareness" class="text-decoration-none"><i
                                     class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
@@ -58,11 +58,8 @@
                             <figure class="icon">
                                 <img src="./assets/images/practice-icon2.png" alt="image" class="img-fluid">
                             </figure>
-                            <h5>Digital Literacy and Computer Training</h5>
-                            {{-- <p class="text-size-14">Aute irure dolor in reprehenderit in voluptate velit esse cillum maiores
-                                alias conse noloribus...</p> --}}
-                            <a href="./practice-area.html" class="text-decoration-none"><i
-                                    class="fa-solid fa-arrow-right"></i></a>
+                            <h5>Publication</h5>
+                            <a href="/publication" class="text-decoration-none"><i class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -72,10 +69,10 @@
                             <figure class="icon">
                                 <img src="./assets/images/practice-icon3.png" alt="image" class="img-fluid">
                             </figure>
-                            <h5>Entrepreneurship skills in Digital Space</h5>
+                            <h5>Career Guidance & Development</h5>
                             {{-- <p class="text-size-14">Aute irure dolor in reprehenderit in voluptate velit esse cillum maiores
                                 alias conse noloribus...</p> --}}
-                            <a href="./practice-area.html" class="text-decoration-none"><i
+                            <a href="/career-development" class="text-decoration-none"><i
                                     class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
@@ -86,10 +83,10 @@
                             <figure class="icon">
                                 <img src="./assets/images/practice-icon4.png" alt="image" class="img-fluid">
                             </figure>
-                            <h5>STEM career awareness and mentorship</h5>
+                            <h5>Capacity Building</h5>
                             {{-- <p class="text-size-14">Aute irure dolor in reprehenderit in voluptate velit esse cillum maiores
                                 alias conse noloribus...</p> --}}
-                            <a href="./practice-area.html" class="text-decoration-none"><i
+                            <a href="/capacity-building" class="text-decoration-none"><i
                                     class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
@@ -100,10 +97,10 @@
                             <figure class="icon">
                                 <img src="./assets/images/practice-icon5.png" alt="image" class="img-fluid">
                             </figure>
-                            <h5>Online learning in career, entrepreneurship, and innovation</h5>
+                            <h5>Capacity Building</h5>
                             {{-- <p class="text-size-14">Aute irure dolor in reprehenderit in voluptate velit esse cillum maiores
                                 alias conse noloribus...</p> --}}
-                            <a href="./practice-area.html" class="text-decoration-none"><i
+                            <a href="/capacity-building" class="text-decoration-none"><i
                                     class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
@@ -114,70 +111,15 @@
                             <figure class="icon">
                                 <img src="./assets/images/practice-icon6.png" alt="image" class="img-fluid">
                             </figure>
-                            <h5>Career guidance through physical training, seminars, and online platforms</h5>
+                            <h5>Secondary School Mentorship </h5>
                             {{-- <p class="text-size-14">Aute irure dolor in reprehenderit in voluptate velit esse cillum maiores
                                 alias conse noloribus...</p> --}}
-                            <a href="./practice-area.html" class="text-decoration-none"><i
+                            <a href="/secondary-school" class="text-decoration-none"><i
                                     class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-6 col-12">
-                    <div class="box">
-                        <div class="practice-box">
-                            <figure class="icon">
-                                <img src="./assets/images/practice-icon6.png" alt="image" class="img-fluid">
-                            </figure>
-                            <h5>Capacity-building through training, workshops, and coaching in various skills</h5>
-                            {{-- <p class="text-size-14">Aute irure dolor in reprehenderit in voluptate velit esse cillum maiores
-                                alias conse noloribus...</p> --}}
-                            <a href="./practice-area.html" class="text-decoration-none"><i
-                                    class="fa-solid fa-arrow-right"></i></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-6 col-12">
-                    <div class="box">
-                        <div class="practice-box">
-                            <figure class="icon">
-                                <img src="./assets/images/practice-icon6.png" alt="image" class="img-fluid">
-                            </figure>
-                            <h5>One-to-one career counselling and guidance in secondary schools and universities</h5>
-                            {{-- <p class="text-size-14">Aute irure dolor in reprehenderit in voluptate velit esse cillum
-                                maiores alias conse noloribus...</p> --}}
-                            <a href="./practice-area.html" class="text-decoration-none"><i
-                                    class="fa-solid fa-arrow-right"></i></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-6 col-12">
-                    <div class="box">
-                        <div class="practice-box">
-                            <figure class="icon">
-                                <img src="./assets/images/practice-icon6.png" alt="image" class="img-fluid">
-                            </figure>
-                            <h5>Advocacy and awareness creation on career, life skills, digital transformation, and health issues</h5>
-                            {{-- <p class="text-size-14">Aute irure dolor in reprehenderit in voluptate velit esse cillum
-                                maiores alias conse noloribus...</p> --}}
-                            <a href="./practice-area.html" class="text-decoration-none"><i
-                                    class="fa-solid fa-arrow-right"></i></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-6 col-12">
-                    <div class="box">
-                        <div class="practice-box">
-                            <figure class="icon">
-                                <img src="./assets/images/practice-icon6.png" alt="image" class="img-fluid">
-                            </figure>
-                            <h5>Engagement in research and consultancy to support activities</h5>
-                            {{-- <p class="text-size-14">Aute irure dolor in reprehenderit in voluptate velit esse cillum
-                                maiores alias conse noloribus...</p> --}}
-                            <a href="./practice-area.html" class="text-decoration-none"><i
-                                    class="fa-solid fa-arrow-right"></i></a>
-                        </div>
-                    </div>
-                </div>
+
             </div>
         </div>
     </section>
@@ -199,29 +141,12 @@
                     <div class="amazing_content aos-init aos-animate" data-aos="fade-up">
                         <h6>Capacity Building</h6>
                         <h2 class="text-white">Capacity Building</h2>
-                        <p class="text-white text-size-16">Chanya Change performs capacity-building activities in terms of training, seminars, workshops, mentorship and coaching. The main areas covered in the capacity building include but are not limited to career development, life skills, digital skills, business management, entrepreneurship and innovation skills.</p>
+                        <p class="text-white text-size-16">Chanya Change performs capacity-building activities in terms of
+                            training, seminars, workshops, mentorship and coaching. The main areas covered in the capacity
+                            building include but are not limited to career development, life skills, digital skills,
+                            business management, entrepreneurship and innovation skills.</p>
                         <div class="content">
-                            <!-- <div class="row"> -->
-                                <!-- <div class="col-12"> -->
-                                    <!-- <div class="row"> -->
 
-                                        <ul class="list-unstyled Activities-list">
-                                            <li>
-                                                <i class="fa fa-check" aria-hidden="true"></i>
-                                                <p class="mb-0 text-size-16">Excepteur sint occaecat cupidatat noru even.</p>
-                                            </li>
-                                            <li>
-                                                <i class="fa fa-check" aria-hidden="true"></i>
-                                                <p class="mb-0 text-size-16">Duis aute irure dolor in reprehenderit in voluta facis.</p>
-                                            </li>
-                                            <li>
-                                                <i class="fa fa-check" aria-hidden="true"></i>
-                                                <p class="mb-0 text-size-16">Rerum hic tenetur a sapiente delectus au occae.</p>
-                                            </li>
-                                        </ul>
-                                    <!-- </div> -->
-                                <!-- </div> -->
-                            <!-- </div> -->
                         </div>
                     </div>
                 </div>

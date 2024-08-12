@@ -58,7 +58,7 @@
 
                         <div class="content3" data-aos="fade-up" data-aos-duration="700">
                             <figure class="image1 mb-3" data-aos="fade-up">
-                                <img src="assets/images/activties/advocacy.jpg" alt="{{ $title }}" class="img-fluid"
+                                <img src="assets/images/activties/capacity.jpg" alt="{{ $title }}" class="img-fluid"
                                     loading="lazy">
                             </figure>
 
