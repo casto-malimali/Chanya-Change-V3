@@ -5,7 +5,7 @@
             <div class="row">
                 <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12">
                     <div class="logo-content">
-                        <a href="./index.html" class="footer-logo">
+                        <a href="/" class="footer-logo">
                             <figure class="mb-0"><img src="./assets/images/logo.png" alt="image"></figure>
                         </a>
                         <p class="text-size-14">Chanya Change is a Social Enterprise established and registered in Tanzania in 2018. It aims at addressing employment challenges towards improved livelihood and sustainable economic...</p>
@@ -35,7 +35,7 @@
                         <ul class="list-unstyled mb-0">
                             <li><p >Online Consultatiion</p></li>
                             <li><span>Pata Intel</span></li>
-                            <li><p>Pamela Chogo Website</p></li>
+                            <li><p><a href="https://pamelachogo.com" target="_blank" rel="noopener noreferrer" style="color: white; test-decoration: none">Pamela Chogo Website</a></p></li>
 
                         </ul>
                     </div>
@@ -69,13 +69,32 @@
                 <img src="./assets/images/footer-contactimage.png" alt="image" class="img-fluid">
             </figure>
         </div>
+        @if (session('success'))
+                    {{-- <div class="alert alert-success">
+                        {{ session('success') }}
+                    </div> --}}
+                    <script>
+                        alert('{{ session('success') }}')
+                    </script>
+                @endif
+
+                @if ($errors->any())
+                    <div class="alert alert-danger">
+                        <ul>
+                            @foreach ($errors->all() as $error)
+                                <li>{{ $error }}</li>
+                            @endforeach
+                        </ul>
+                    </div>
+                @endif
         <div class="body" style="display: none;">
-            <form action="javascript:;">
+            <form action="{{ route('chat.store') }}" method="POST">
+                @csrf
                 <div class="form-group mb-0">
                     <input type="text" class="form_style" placeholder="Name" name="name">
                 </div>
                 <div class="form-group mb-0">
-                    <input type="email" class="form_style" placeholder="Email" name="emailid">
+                    <input type="email" class="form_style" placeholder="Email" name="email">
                 </div>
                 <div class="form-group mb-0">
                     <input type="tel" class="form_style" placeholder="Phone" name="phone">

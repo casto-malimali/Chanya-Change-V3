@@ -13,7 +13,7 @@
                     <p class="col-xl-7 col-lg-9 mx-auto text-white text-size-16">Join Our Vibrant Community and Connect with Like-Minded Individuals
                     </p>
                     <div class="box">
-                        <a href="index.html" class="text-decoration-none">
+                        <a href="/" class="text-decoration-none">
                             <span class="mb-0">Home</span>
                         </a>
                         <i class="arrow fa-solid fa-arrow-right"></i>

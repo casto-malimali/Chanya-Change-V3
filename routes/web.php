@@ -1,5 +1,7 @@
 <?php
 
+use App\Http\Controllers\ChatController;
+use App\Http\Controllers\CommunityController;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\ContactController;
 use App\Http\Controllers\NewsletterController;
@@ -57,9 +59,13 @@ Route::get('/secondary-school', function () {
 Route::get('/capacity-building', function () {
     return view('activities.capacity');
 });
-
-
+Route::get('/join-us', function(){
+    return view('join-us');
+});
+ROute::post('join-us', [CommunityController::class, 'join'])->name('join-us.store');
 
 Route::post('/contact', [ContactController::class, 'message'])->name('contact.store');
 Route::post('/newsletter',[NewsletterController::class, 'create'])->name('newsletter.subscribe');
+Route::post('/chat', [ChatController::class, 'chat'])->name('chat.store');
+
 

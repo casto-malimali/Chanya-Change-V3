@@ -14,7 +14,7 @@
                         <p class="col-xl-7 col-lg-9 mx-auto text-white text-size-16">Chanya Change coordinates and arranges several events.
                         </p>
                         <div class="box">
-                            <a href="index.html" class="text-decoration-none">
+                            <a href="/" class="text-decoration-none">
                                 <span class="mb-0">Home</span>
                             </a>
                             <i class="arrow fa-solid fa-arrow-right"></i>
@@ -41,7 +41,7 @@
                         <figure class="about-circle mb-0">
                             <img src="./assets/images/aboutpage-circle.png" alt="image" class="img-fluid">
                         </figure>
-                        
+
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-12 col-sm-12 col-12 order-lg-2 order-1">
@@ -185,7 +185,7 @@
                                     <img src="./assets/images/icons/target.jpg" alt="image" class="img-fluid">
                                 </figure>
                                 <h5>Open-mindness</h5>
-                                <a href="./practice-area.html" class="text-decoration-none"><i class="fa-solid fa-arrow-right"></i></a>
+                                <a href="#" class="text-decoration-none"><i class="fa-solid fa-arrow-right"></i></a>
                             </div>
                         </div>
                         <div class="col-lg-3 col-md-6 col-sm-6 col-12">
@@ -194,7 +194,7 @@
                                     <img src="./assets/images/committed-icon2.png" alt="image" class="img-fluid">
                                 </figure>
                                 <h5>Volunteerism</h5>
-                                <a href="./practice-area.html" class="text-decoration-none"><i class="fa-solid fa-arrow-right"></i></a>
+                                <a href="#" class="text-decoration-none"><i class="fa-solid fa-arrow-right"></i></a>
                             </div>
                         </div>
                         <div class="col-lg-3 col-md-6 col-sm-6 col-12">
@@ -203,7 +203,7 @@
                                     <img src="./assets/images/committed-icon3.png" alt="image" class="img-fluid">
                                 </figure>
                                 <h5>Family-ness</h5>
-                                <a href="./practice-area.html" class="text-decoration-none"><i class="fa-solid fa-arrow-right"></i></a>
+                                <a href="#" class="text-decoration-none"><i class="fa-solid fa-arrow-right"></i></a>
                             </div>
                         </div>
                         <div class="col-lg-3 col-md-6 col-sm-6 col-12">
@@ -212,7 +212,7 @@
                                     <img src="./assets/images/committed-icon4.png" alt="image" class="img-fluid">
                                 </figure>
                                 <h5>Respect</h5>
-                                <a href="./practice-area.html" class="text-decoration-none"><i class="fa-solid fa-arrow-right"></i></a>
+                                <a href="#" class="text-decoration-none"><i class="fa-solid fa-arrow-right"></i></a>
                             </div>
                         </div>
                         <div class="col-lg-3 col-md-6 col-sm-6 col-12">
@@ -221,7 +221,7 @@
                                     <img src="./assets/images/committed-icon5.png" alt="image" class="img-fluid">
                                 </figure>
                                 <h5>Integrity</h5>
-                                <a href="./practice-area.html" class="text-decoration-none"><i class="fa-solid fa-arrow-right"></i></a>
+                                <a href="#" class="text-decoration-none"><i class="fa-solid fa-arrow-right"></i></a>
                             </div>
                         </div>
                         <div class="col-lg-3 col-md-6 col-sm-6 col-12">
@@ -230,7 +230,7 @@
                                     <img src="./assets/images/committed-icon6.png" alt="image" class="img-fluid">
                                 </figure>
                                 <h5>Hardworking</h5>
-                                <a href="./practice-area.html" class="text-decoration-none"><i class="fa-solid fa-arrow-right"></i></a>
+                                <a href="#" class="text-decoration-none"><i class="fa-solid fa-arrow-right"></i></a>
                             </div>
                         </div>
                         <div class="col-lg-3 col-md-6 col-sm-6 col-12">
@@ -239,7 +239,7 @@
                                     <img src="./assets/images/committed-icon7.png" alt="image" class="img-fluid">
                                 </figure>
                                 <h5>Commitment</h5>
-                                <a href="./practice-area.html" class="text-decoration-none"><i class="fa-solid fa-arrow-right"></i></a>
+                                <a href="#" class="text-decoration-none"><i class="fa-solid fa-arrow-right"></i></a>
                             </div>
                         </div>
                         <div class="col-lg-3 col-md-6 col-sm-6 col-12">
@@ -248,7 +248,7 @@
                                     <img src="./assets/images/committed-icon8.png" alt="image" class="img-fluid">
                                 </figure>
                                 <h5>Professionalism</h5>
-                                <a href="./practice-area.html" class="text-decoration-none"><i class="fa-solid fa-arrow-right"></i></a>
+                                <a href="#" class="text-decoration-none"><i class="fa-solid fa-arrow-right"></i></a>
                             </div>
                         </div>
                     </div>

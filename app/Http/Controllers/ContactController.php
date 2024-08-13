@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Http\Requests\ChatRequest;
 use App\Models\Contact;
 use App\Mail\ContactMail;
 use Illuminate\Support\Facades\Mail;
@@ -20,7 +21,10 @@ class ContactController extends Controller
                 'Message' => $request->input('msg'),
             ]
         );
-        Mail::to('castoraron255@gmail.com')->send(new ContactMail($request->all()));
+        Mail::to(['pamsekela@gmail.com', 'info@chanyachange.org'])->send(new ContactMail($request->all()));
         return back()->with('success', 'Thanks For '.$request->input('fname').' Contacting Chanya Change');
     }
+
+
+
 }
